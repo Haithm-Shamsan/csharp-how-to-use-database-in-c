@@ -1,35 +1,34 @@
 ﻿# How_To_Use_DataBase_In_C#
 
-## Overview
-This repository was organized and uploaded from a local project workspace.
+## About This Project
+I built this project as part of my learning and practice journey. It focuses on data access and persistence layer design while improving how I organize code and structure features.
 
-## Repository Stats
-- GitHub repo: Haithm-Shamsan/csharp-how-to-use-database-in-c
-- Scan date: 2026-03-26
-- Total tracked files scanned: 6
-- Text files fully read: 6
-- Binary or non-text files: 0
-- Approximate text line count: 282
+## What I Implemented
+- I implemented data access and persistence layer design.
+- I organized the project to keep logic clearer and easier to maintain.
 
-## File Types
-- .cs: 2 files
-- .csproj: 1 files
-- .config: 1 files
-- .sln: 1 files
-- .gitignore: 1 files
+## Tech Stack
+- C# / .NET
 
-## Getting Started
-- Open solution in Visual Studio and run from IDE
-- Or build with .NET CLI: dotnet build
-
-## Project File Sample
-- .gitignore
-- App.config
+## Project Structure Highlights
+- README.md
+- Program.cs
 - How_To_Use_DataBase_In_C#.csproj
 - How_To_Use_DataBase_In_C#.sln
-- Program.cs
-- Properties/AssemblyInfo.cs
+- .gitignore
+- App.config
 
-## Notes
-- This README was auto-generated after scanning repository files.
-- You can customize this file with project purpose, screenshots, and usage details.
+## How To Run
+1. Open the `.sln` file in Visual Studio.
+2. Restore/build the solution.
+3. Run the startup project from Visual Studio.
+
+## What I Learned
+- I practiced building features end-to-end, from structure to execution.
+- I improved code organization and readability choices.
+- I strengthened my debugging and iteration workflow.
+
+## Next Improvements
+- Add deeper documentation for each module and workflow.
+- Add tests for the most critical flows.
+- Refine UX/UI and error handling where needed.
